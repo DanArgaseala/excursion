@@ -1,0 +1,10 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+h1{
+  font-family: 'Monda', sans-serif;
+  font-size: 50px;
+  font-weight: normal;
+  color:white;
+}
